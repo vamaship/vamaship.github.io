@@ -1,2 +1,2 @@
-# vamaship.github.io
-Vamaship Github Page
+# Vamaship Developr Blog
+Hello World
